@@ -86,6 +86,7 @@ body { background-color:#FFFFFF; padding:0;  margin: 0; }
 #button_1e24092a { vertical-align: bottom; position:relative; display: inline-block; width:150px; height:40px; background-color:#B57D45; box-shadow: 7px 7px 4px -5px rgba(0, 0, 0, 0.784314);  }
 #container_798fb160 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background-color:#FFFFFF;  }
 #container_798fb160_padding { margin: 10px; display: block;  }
+#youtube_6b0ba376 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:70%; height:500px; background-color:#D1D1D1; border: 1px solid #A0A0A0;  }
 .textstyle21 { font-size:16pt; font-family:Tahoma, Geneva, sans-serif; color:#000000;  }
 #container_193e5a5a { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background:none;  }
 #container_193e5a5a_padding { margin: 10px; display: block;  }
