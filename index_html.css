@@ -25,7 +25,7 @@ a:hover { color:#B2B3B4; }
 #button_6f4409d4:hover span { color:#CDCDCD; }
 #gallery_71037a78 div.galleryimgcontainer { box-sizing: border-box; vertical-align: middle; display: inline-block; width: 33%; height: auto; padding: 10px;  } 
 #gallery_71037a78 div.galleryimgcontainer img {  width: 100%;  } 
-@media only screen and (max-width:420px) { #gallery_71037a78 div.galleryimgcontainer { width: 50%; } } 
+@media only screen and (max-width:320px) { #gallery_71037a78 div.galleryimgcontainer { width: 50%; } } 
 @media only screen and (max-width:320px) { #gallery_71037a78 div.galleryimgcontainer { width: 100%; } } 
 #button_6cf5d1d2 { vertical-align: bottom; border-radius: 3px; position:relative; display: inline-block; width:150px; height:40px; background-color:#00893C;  }
 #button_6cf5d1d2:hover { background-color:#22B4ED;  }
