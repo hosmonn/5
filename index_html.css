@@ -25,7 +25,7 @@ a:hover { color:#B2B3B4; }
 #button_6f4409d4:hover span { color:#CDCDCD; }
 #gallery_71037a78 div.galleryimgcontainer { box-sizing: border-box; vertical-align: middle; display: inline-block; width: 33%; height: auto; padding: 10px;  } 
 #gallery_71037a78 div.galleryimgcontainer img {  width: 100%;  } 
-@media only screen and (max-width:320px) { #gallery_71037a78 div.galleryimgcontainer { width: 50%; } } 
+@media only screen and (max-width:300px) { #gallery_71037a78 div.galleryimgcontainer { width: 50%; } } 
 @media only screen and (max-width:320px) { #gallery_71037a78 div.galleryimgcontainer { width: 100%; } } 
 #button_6cf5d1d2 { vertical-align: bottom; border-radius: 3px; position:relative; display: inline-block; width:150px; height:40px; background-color:#00893C;  }
 #button_6cf5d1d2:hover { background-color:#22B4ED;  }
@@ -66,7 +66,7 @@ body { background-color:#FFFFFF; padding:0;  margin: 0; }
 .vcenterstyle2 { display: table-cell; vertical-align: middle; }
 .textstyle11 { font-size:12pt; font-family:'Palatino Linotype', 'Book Antiqua3', Palatino, serif; color:#FFFFFF;  }
 .textstyle12 { font-size:32pt; font-family:Tahoma, Geneva, sans-serif; color:#20242E;  }
-#gallery_71037a78 { overflow:hidden; vertical-align: bottom; position:relative; display: inline-block; width:100%;  }
+#gallery_71037a78 { overflow:hidden; vertical-align: bottom; position:relative; display: inline-block; width:100%; min-height:202px;  }
 .textstyle13 { font-size:32pt; font-family:'Palatino Linotype', 'Book Antiqua3', Palatino, serif; color:#20242E;  }
 .textstyle14 { font-size:15pt; font-family:'Palatino Linotype', 'Book Antiqua3', Palatino, serif; color:#20242E; line-height: 1.5;  }
 .textstyle15 { font-size:15pt; font-family:Tahoma, Geneva, sans-serif; color:#20242E;  }
